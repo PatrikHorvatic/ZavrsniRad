@@ -9,8 +9,7 @@ from email import errors
 
 #Unos podataka
 mojmail = input("Unesite svog gmail: ") #Unesite gmail adresu
-#mojpass = input("Unesite lozinku: ") #Unesite lozinku računa
-mojpass = "PF7RUCF9"
+mojpass = input("Unesite lozinku: ") #Unesite lozinku računa
 primatelj = input("Unesite primatelja: ") #unesite primatelja
 poruka = input("Unesite sadrzaj poruke: ")
 
