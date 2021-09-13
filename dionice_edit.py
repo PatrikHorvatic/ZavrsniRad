@@ -91,7 +91,7 @@ class PDF(FPDF):
 class Dionica:
 
 	ALPHA_STRANA = "https://www.alphavantage.co/query" #u dokumentaciji
-	KLJUC_ALPHA = "RQMMKH99D6UVQVJA" #staviti svoj kljuc dobiven prilikom registracije
+	KLJUC_ALPHA = "AAAAAAAAAAAAAAA" #staviti svoj kljuc dobiven prilikom registracije
 	
 	def __init__(self, simbol, opseg):
 		"""Kod inicijalizacije objekta spremamo simbol, odnosno dionicu čije podatke trebamo.
